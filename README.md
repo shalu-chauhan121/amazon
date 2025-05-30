@@ -1,2 +1,2 @@
 # amazon
-#uploading the webpage of amazon
+# the webpage of amazon
